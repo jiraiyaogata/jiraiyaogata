@@ -1,7 +1,7 @@
 # 💫 About Me:
 👯 I’m looking to collaborate on big data related projects<br>🤝 I’m looking for help with my recent PDE prject contributors<br>🌱 I’m currently learning python full stack development<br>💬 Ask me about data engineer and devops engineer related field<br>⚡ Fun fact - i am lazy but smart
 
-<img align="right" alt="coding" width="400" src="https://in.images.search.yahoo.com/images/view;_ylt=AwrPpHbD3h9keLU8kEu9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2Q0NzFkODMyZjY4OGU4Y2E5MjA4ZTNiYzIyMTBjMDQ2BGdwb3MDMTUEaXQDYmluZw--?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Danimated%2Bcoding%2Bgif%26fr%3Dmcafee%26tab%3Dorganic%26ri%3D15&w=800&h=600&imgurl=cdn.dribbble.com%2Fusers%2F926537%2Fscreenshots%2F4502924%2Fpython-2.gif&rurl=https%3A%2F%2Fdribbble.com%2Fshots%2F4502924-Python-developer-animation&size=213.0KB&p=animated+coding+gif&oid=d471d832f688e8ca9208e3bc2210c046&fr2=&fr=mcafee&tt=Python+developer+animation+by+Marina+Rakhimova+on+Dribbble&b=0&ni=120&no=15&ts=&tab=organic&sigr=OqcVf1Cj3UtD&sigb=4LUEIAxBHuaa&sigi=qtXN9whXlqx6&sigt=zX4z_P0J6MdJ&.crumb=4ckh7Rc36Id&fr=mcafee">
+<img align="right" alt="coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.hQR3_tCL_phZgIK80wnOcAHaFj&pid=Api&P=0">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-murai-621990267/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCKv9STxPk3Wx5RQ8w84URkw) 
