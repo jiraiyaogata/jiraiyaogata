@@ -1,5 +1,5 @@
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-# 💫 About Me:
+# 💫 About Me:<br>
 👯 I’m looking to collaborate on big data related projects<br>🤝 I’m looking for help with my recent PDE prject contributors<br>🌱 I’m currently learning python full stack development<br>💬 Ask me about data engineer and devops engineer related field<br>⚡ Fun fact - i am lazy but smart
 
 
