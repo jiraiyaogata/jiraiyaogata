@@ -1,7 +1,7 @@
 # 💫 About Me:
 👯 I’m looking to collaborate on big data related projects<br>🤝 I’m looking for help with my recent PDE prject contributors<br>🌱 I’m currently learning python full stack development<br>💬 Ask me about data engineer and devops engineer related field<br>⚡ Fun fact - i am lazy but smart
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-murai-621990267/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCKv9STxPk3Wx5RQ8w84URkw) 
